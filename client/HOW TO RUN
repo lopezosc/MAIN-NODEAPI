@@ -1,0 +1,4 @@
+
+USE THIS COMMAND TO RUN PROGRAM
+
+NODE_OPTIONS=--openssl-legacy-provider npm run start  --open
